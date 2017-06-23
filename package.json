@@ -20,6 +20,9 @@
     "jison": "^0.4.17"
   },
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mkdirp": "^0.5.1",
+    "poormans-injector": "^1.0.3"
   }
 }
